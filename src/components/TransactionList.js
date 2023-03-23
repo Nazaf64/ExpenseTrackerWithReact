@@ -6,7 +6,7 @@ export const TransactionList = () => {
   // const context = useContext(GlobalContext);
   // console.log(context);
   const { transactions } = useContext(GlobalContext);
-  console.log(transactions);
+  // console.log(transactions);
 
   return (
     <>
